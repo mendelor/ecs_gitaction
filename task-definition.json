@@ -29,7 +29,7 @@
       "memoryReservation": null,
       "volumesFrom": [],
       "stopTimeout": null,
-      "image": "317413990831.dkr.ecr.us-east-2.amazonaws.com/hello-world:38aafb53c1a68f5da98a564af8dccd9ce64c8bbf",
+      "image": "317413990831.dkr.ecr.us-east-2.amazonaws.com/hello-world:38aafb53c1a68f5da98a564af8dccd9ce64c8bbft",
       "startTimeout": null,
       "firelensConfiguration": null,
       "dependsOn": null,
