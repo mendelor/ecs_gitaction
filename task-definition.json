@@ -52,10 +52,6 @@
   "placementConstraints": [],
   "memory": "256",
   "taskRoleArn": null,
-    "compatibilities": [
-    "EXTERNAL",
-    "EC2"
-  ],
   "family": "httpd",
   "pidMode": null,
   "requiresCompatibilities": [
